@@ -10,7 +10,7 @@ body {
   position: absolute;
   top: 90%;
   left: 50%;
-  transform: translate(-48%, -1075%);
+  transform: translate(-45%, -670%);
   font-size: 1.85rem;
   color: #d910cf; /* Bright pink or a romantic color */
   font-family: 'Great Vibes', cursive;
@@ -54,7 +54,7 @@ body {
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -44%);
   overflow: hidden;
   -moz-border-radius: 100%;
   -webkit-border-radius: 100%;
